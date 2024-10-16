@@ -14,13 +14,13 @@ This is an E-commerce website built using Spring Boot for the backend and JSP fo
 2. **Admin Users**
 
 ## Functionalities
-### For Customers:
+### For Customers
 - **User Management:** Register, log in/out, and manage profiles.
 - **Product Management:** Browse products, search and view product details.
 - **Shopping Cart:** Add products, view cart, and proceed with checkout.
 - **Search & Filter:** Filter products by name, category, price, and availability.
 
-### For Admins:
+### For Admins
 - **Admin Panel:** Manage users, products, and categories.
 
 ## Database Schema
